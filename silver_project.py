@@ -39,7 +39,7 @@ def tic(board, win, u1, u2, ter, marker1, marker2):
         print("Player 1 is selected to play first")
     else:
         print("Player 2 is selected to play first")
-    n = 1
+    n = 0
     while(1):
         if(ter == 0):
             if c == 1:
